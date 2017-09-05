@@ -1,0 +1,17 @@
+{
+    "name": "basis/form-bootstrap",
+    "type": "library",
+    "minimum-stability" : "stable",    
+    "autoload": {
+        "psr-0": {
+            "TwbBundle": "src"
+        },
+        "classmap" : ["Module.php"]
+    },
+    "authors": [
+        {
+            "name": "Felippe Ladeira",
+            "email": "felippe.ladeira@basis.com.br"
+        }
+    ]
+}
